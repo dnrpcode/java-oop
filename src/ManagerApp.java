@@ -1,11 +1,11 @@
 public class ManagerApp {
   public static void main(String[] args) {
 
-    var manager = new Manager("Eko");
-    manager.sayHello("Budi");
+    var manager = new Manager("Dani");
+    manager.sayHello("Prayogi");
 
-    var vp = new VicePresident("Joko");
-    vp.sayHello("Bud");
+    var vp = new VicePresident("Nur");
+    vp.sayHello("Ramadhan");
 
     System.out.println(manager);
     System.out.println(manager.toString());
