@@ -7,9 +7,9 @@ public class ReflectionApp {
   public static void main(String[] args) {
 
     CreateUserRequest request = new CreateUserRequest();
-    request.setUsername("eko");
-    request.setPassword("eko");
-    request.setName("eko");
+    request.setUsername("Dani");
+    request.setPassword("Dani");
+    request.setName("Dani");
 
     ValidationUtil.validationReflection(request);
 

@@ -10,7 +10,7 @@ public class ValidationApp {
   @Fancy(name = "AnimalApp", tags = {"application", "java"})
   public static void main(String[] args) {
 
-    LoginRequest loginRequest = new LoginRequest("eko", "rahasia");
+    LoginRequest loginRequest = new LoginRequest("Dani", "rahasia");
 
     try {
       ValidationUtil.validate(loginRequest);

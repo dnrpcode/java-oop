@@ -2,18 +2,18 @@ public class PolymorphismApp {
   public static void main(String[] args) {
 
 
-    Employee employee = new Employee("EKo");
-    employee.sayHello("Budi");
+    Employee employee = new Employee("Dani");
+    employee.sayHello("Prayogi");
 
-    employee = new Manager("Eko");
-    employee.sayHello("Budi");
+    employee = new Manager("Dani");
+    employee.sayHello("Prayogi");
 
-    employee = new VicePresident("Eko");
-    employee.sayHello("Budi");
+    employee = new VicePresident("Dani");
+    employee.sayHello("Prayogi");
 
-    sayHello(new Employee("Eko"));
-    sayHello(new Manager("Joko"));
-    sayHello(new VicePresident("Budi"));
+    sayHello(new Employee("Dani"));
+    sayHello(new Manager("Ramadhan"));
+    sayHello(new VicePresident("Prayogi"));
   }
 
   static void sayHello(Employee employee) {

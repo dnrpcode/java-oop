@@ -7,10 +7,10 @@ public class CompanyApp {
 
 
     Company company = new Company();
-    company.setName("Programmer Zaman Now");
+    company.setName("DNRP Code");
 
     Company.Employee employee = company.new Employee();
-    employee.setName("Eko");
+    employee.setName("Dani");
 
     System.out.println(employee.getName());
     System.out.println(employee.getCompany());
@@ -19,7 +19,7 @@ public class CompanyApp {
     company2.setName("Belum Ada");
 
     Company.Employee employee2 = company2.new Employee();
-    employee2.setName("Budi");
+    employee2.setName("Prayogi");
 
     System.out.println(employee2.getName());
     System.out.println(employee2.getCompany());

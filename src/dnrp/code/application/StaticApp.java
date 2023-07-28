@@ -16,7 +16,7 @@ public class StaticApp {
     );
 
     Country.City city = new Country.City();
-    city.setName("Subang");
+    city.setName("Banjarnegara");
 
     System.out.println(city.getName());
 

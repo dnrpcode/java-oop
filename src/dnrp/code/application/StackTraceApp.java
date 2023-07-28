@@ -14,7 +14,7 @@ public class StackTraceApp {
   public static void sampleError() {
     try {
       String[] names = {
-          "Eko", "Kurniawan", "Khannedy"
+          "Dani", "Nur", "Ramadhan", "Prayogi"
       };
 
       System.out.println(names[100]);

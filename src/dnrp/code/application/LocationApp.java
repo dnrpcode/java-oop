@@ -7,7 +7,7 @@ public class LocationApp {
 
     // var location = new Location(); // ERROR
     var city = new City();
-    city.name = "Jakarta";
+    city.name = "Banjarnegara";
 
     System.out.println(city.name);
 

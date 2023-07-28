@@ -29,10 +29,10 @@ public class HelloWorldApp {
     };
 
     english.sayHello();
-    english.sayHello("Eko");
+    english.sayHello("Dani");
 
     indonesia.sayHello();
-    indonesia.sayHello("Eko");
+    indonesia.sayHello("Dani");
 
   }
 }

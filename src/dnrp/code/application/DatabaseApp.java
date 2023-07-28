@@ -4,7 +4,7 @@ import dnrp.code.error.DatabaseError;
 
 public class DatabaseApp {
   public static void main(String[] args) {
-    connectDatabase("eko", null);
+    connectDatabase("Dani", null);
     System.out.println("Sukses");
   }
 

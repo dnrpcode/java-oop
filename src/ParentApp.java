@@ -3,7 +3,7 @@ public class ParentApp {
 
 
     Child child = new Child();
-    child.name = "Eko";
+    child.name = "Dani";
     child.doIt();
     System.out.println(child.name);
 

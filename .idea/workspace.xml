@@ -6,6 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7feb42-59d0-4481-aec5-547fab763087" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PolymorphismApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/CompanyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/CompanyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/DatabaseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/DatabaseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/EnumApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/EnumApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/HelloWorldApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/LocationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/LocationApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/RecordApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/RecordApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/ReflectionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/ReflectionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/StackTraceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/StackTraceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/StaticApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/StaticApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dnrp/code/application/ValidationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dnrp/code/application/ValidationApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +58,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PersonApp">
+  <component name="RunManager" selected="Application.ManagerApp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="java-oop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.Main" />
       </list>
